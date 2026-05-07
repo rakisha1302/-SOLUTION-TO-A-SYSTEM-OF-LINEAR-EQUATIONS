@@ -27,7 +27,7 @@ result=np.linalg.solve(matrixA,const)
 print(result)
 ```
 ## Output:
-<img width="1401" height="282" alt="image" src="https://github.com/user-attachments/assets/ed4d889a-4781-4921-aa09-111f3b0e2844" />
+<img width="1332" height="712" alt="image" src="https://github.com/user-attachments/assets/601c450c-4996-451e-86f3-61deb440ccd6" />
 
 
 ## Result: 
