@@ -27,7 +27,8 @@ result=np.linalg.solve(matrixA,const)
 print(result)
 ```
 ## Output:
-<img width="1677" height="867" alt="image" src="https://github.com/user-attachments/assets/a4c412c6-1bf9-419b-ab48-8864bd7706fd" />
+<img width="1401" height="282" alt="image" src="https://github.com/user-attachments/assets/ed4d889a-4781-4921-aa09-111f3b0e2844" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
